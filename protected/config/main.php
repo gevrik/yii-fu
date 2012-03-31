@@ -52,10 +52,10 @@ return array(
 		),
 		*/
 		'db'=>array(
-			'connectionString' => 'mysql:host=localhost;dbname=testdrive',
+			'connectionString' => 'mysql:host=localhost;port=8889;dbname=yii-fu',
 			'emulatePrepare' => true,
-			'username' => 'root',
-			'password' => '',
+			'username' => 'yii-fu',
+			'password' => 'yRtYncwahavCsw4s',
 			'charset' => 'utf8',
 			'tablePrefix' => 'tbl_',
 		),
